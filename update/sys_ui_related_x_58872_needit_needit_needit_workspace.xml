@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_ui_related sys_domain="global" table="x_58872_needit_needit" version="2" view="">
+    <sys_ui_related sys_domain="global" table="x_58872_needit_needit" version="2" view="needit_workspace">
         <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
             <filter/>
-            <list_id display_value="NeedIt - Default view" name="x_58872_needit_needit" related_list="NULL" sys_domain="global" view="Default view">a28a0b59979c3110caf8b627f053af08</list_id>
+            <list_id display_value="NeedIt - NeedIt Workspace" name="x_58872_needit_needit" related_list="NULL" sys_domain="global" view="36ec8fdd979c3110caf8b627f053af66">5e3e8fd197dc3110caf8b627f053af8a</list_id>
             <order_by/>
             <position>0</position>
             <related_list>x_58872_needit_needit_task.u_needit</related_list>
             <sys_class_name>sys_ui_related_list_entry</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-27 06:29:33</sys_created_on>
-            <sys_id>668a0b59979c3110caf8b627f053af09</sys_id>
+            <sys_created_on>2023-07-27 06:45:39</sys_created_on>
+            <sys_id>de3e8fd197dc3110caf8b627f053af8b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-27 06:29:33</sys_updated_on>
+            <sys_updated_on>2023-07-27 06:45:39</sys_updated_on>
         </sys_ui_related_list_entry>
         <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
             <filter/>
-            <list_id display_value="NeedIt - Default view" name="x_58872_needit_needit" related_list="NULL" sys_domain="global" view="Default view">a28a0b59979c3110caf8b627f053af08</list_id>
+            <list_id display_value="NeedIt - NeedIt Workspace" name="x_58872_needit_needit" related_list="NULL" sys_domain="global" view="36ec8fdd979c3110caf8b627f053af66">5e3e8fd197dc3110caf8b627f053af8a</list_id>
             <order_by/>
             <position>1</position>
             <related_list>task_ci.task</related_list>
             <sys_class_name>sys_ui_related_list_entry</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-27 06:29:33</sys_created_on>
-            <sys_id>6e8a0b59979c3110caf8b627f053af09</sys_id>
+            <sys_created_on>2023-07-27 06:45:39</sys_created_on>
+            <sys_id>d63e8fd197dc3110caf8b627f053af8c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-27 06:29:33</sys_updated_on>
+            <sys_updated_on>2023-07-27 06:45:39</sys_updated_on>
         </sys_ui_related_list_entry>
         <sys_ui_related_list action="INSERT_OR_UPDATE">
-            <calculated_name>NeedIt - Default view</calculated_name>
+            <calculated_name>NeedIt - NeedIt Workspace</calculated_name>
             <filter/>
             <name>x_58872_needit_needit</name>
             <order_by/>
@@ -37,20 +37,20 @@
             <related_list/>
             <sys_class_name>sys_ui_related_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-27 06:29:33</sys_created_on>
+            <sys_created_on>2023-07-27 06:45:39</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>a28a0b59979c3110caf8b627f053af08</sys_id>
+            <sys_id>5e3e8fd197dc3110caf8b627f053af8a</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>NeedIt - Default view</sys_name>
+            <sys_name>NeedIt - NeedIt Workspace</sys_name>
             <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
             <sys_policy/>
             <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-            <sys_update_name>sys_ui_related_x_58872_needit_needit_null</sys_update_name>
+            <sys_update_name>sys_ui_related_x_58872_needit_needit_needit_workspace</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-27 06:29:33</sys_updated_on>
+            <sys_updated_on>2023-07-27 06:45:39</sys_updated_on>
             <sys_user/>
-            <view display_value="Default view" name="NULL">Default view</view>
+            <view display_value="NeedIt Workspace" name="needit_workspace">36ec8fdd979c3110caf8b627f053af66</view>
             <view_name/>
         </sys_ui_related_list>
     </sys_ui_related>
